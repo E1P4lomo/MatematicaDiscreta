@@ -21,5 +21,6 @@ public class ConversorBinario {
 
         String octal = Integer.toOctalString(decimal);
         System.out.println("El número octal es: " + octal);
+        
     }
 }
